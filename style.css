@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.centerblock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: transparent;
+    width: 50vw;
+    height: auto;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
